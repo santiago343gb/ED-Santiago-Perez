@@ -1,11 +1,11 @@
-public class Santiago {
+public class Persona_SPA {
 private int id;
 private int nombre;
 private double masa;
 private double altura;
 private int edad;
 //costrutor inicial
-public Santiago(int id, int nombre, double masa, double altura, int edad) {
+public Persona_SPA(int id, String papa, int nombre, double masa, int edad) {
     this.id = id;
     this.nombre = nombre;
     this.masa = masa;
@@ -66,6 +66,8 @@ public Santiago(int id, int nombre, double masa, double altura, int edad) {
         sb.append('}');
         return sb.toString();
     }
+
+
 
 }
 

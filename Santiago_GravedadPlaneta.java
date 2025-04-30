@@ -3,7 +3,7 @@ public class Santiago_GravedadPlaneta {
     private String nombre;
     private double GravedadPlaneta;
 
-    public Santiago_GravedadPlaneta(double GravedadPlaneta, int id, String nombre) {
+    public Santiago_GravedadPlaneta(int id, String nombre, double GravedadPlaneta) {
         this.GravedadPlaneta = GravedadPlaneta;
         this.id = id;
         this.nombre = nombre;
