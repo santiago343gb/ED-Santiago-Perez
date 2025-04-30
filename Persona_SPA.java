@@ -1,4 +1,7 @@
 public class Persona_SPA {
+    // Santiago
+    //Version 1.0002
+    //Descripcion y variables de persona
 private int id;
 private int nombre;
 private double masa;

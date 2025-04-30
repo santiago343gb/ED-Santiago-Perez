@@ -1,6 +1,7 @@
 public class Main {
-     
-    
+     // Santiago
+    // version 1.00001
+    // calcula el peso en distintos planetas
     // main
     public static void main(String[] args) {
         Persona_SPA pers1 = new Persona_SPA(1, "Papa", 85, 1.75, 22);

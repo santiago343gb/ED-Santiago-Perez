@@ -1,4 +1,7 @@
 public class Santiago_GravedadPlaneta {
+    //Santiago
+    //Version 10004
+    //las propiedades de los planetas
     private int id;
     private String nombre;
     private double GravedadPlaneta;
